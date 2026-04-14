@@ -19276,13 +19276,12 @@
     "author": "Santi Younger",
     "description": "Calculate reading time estimates for selected text using your own reading speed in Words Per Minute.",
     "repo": "santiyounger/wpm-reading-time"
-  }
+  },
   {
       "id": "week-notes",
       "name": "Week Notes",
       "author": "hey-its-brian",
-      "description": "Generate a weekly folder containing daily notes and a weekly roundup, from
-  configurable templates.",
+      "description": "Generate a weekly folder containing daily notes and a weekly roundup, from configurable templates.",
       "repo": "hey-its-brian/obsidian-week-notes"
   }
 ]
